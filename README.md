@@ -32,8 +32,7 @@ From the analysis:
 ---
 
 ## 📂 Project Structure
-📁 BlinkIT-Grocery-Excel-Dashboard
- ┣ 📊 BlinkIT Grocery Data Excel.xlsx   ← Excel file
- ┣ 📜 README.md                         ← Documentation
- ┗ 📁 screenshots/                      ← Dashboard image
+ - 📊 BlinkIT Grocery Data Excel.xlsx   ← Excel file
+ - 📜 README.md                         ← Documentation
+ - 📁 screenshots                       ← Dashboard image(BLINKITT.JPG)
 
